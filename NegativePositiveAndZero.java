@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Positive{
+public class NegativePositiveAndZero{
 
 	public static void main(String[] args){
 	Scanner scanner = new Scanner(System.in);
@@ -26,7 +26,7 @@ public class Positive{
 	int zero = 0;
 
 	if(num1 > 0 ){positive = positive + 1;}
-	if(num1 < 0 ){negative += 1;}
+	if(num1 < 0 ){negative = negative + 1;}
 	if(num1 == 0){zero +=1;}
 
 	if(num2 > 0 ){positive += 1;}

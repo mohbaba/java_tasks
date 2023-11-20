@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Circle{
+public class DiameterCircumferenceAreaCircle{
 
 	public static void main(String[] args){
 	

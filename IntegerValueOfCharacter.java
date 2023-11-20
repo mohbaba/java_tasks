@@ -1,5 +1,5 @@
 
-public class ValueChecker {
+public class IntegerValueOfCharacter {
 	public static void main(String []args){
 	
 	char symbol = 'a';
